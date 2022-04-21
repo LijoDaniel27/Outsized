@@ -1,0 +1,343 @@
+{
+    "Staging": [
+        {
+            "login_url": "https://outsized.site/login",
+            "signup_url": "https://outsized.site/signup?enableFirm=true",
+            "company_information": "https://outsized.site/create-firm-profile/company-profile",
+            "expertise&experience": "https://outsized.site/create-firm-profile/expertise-experience",
+            "profile_screen": "https://outsized.site/firm-profile",
+            "forgotPaswordUrl": "https://outsized.site/forgot-password"
+        },
+        {
+            "username": "qa1237@mailinator.com",
+            "password": "Reset@123",
+            "error": "Email not registered"
+        },
+        {
+            "username": "python_firm_054055@mailinator.com",
+            "password": "Reset@1234",
+            "error": "Incorrect Password"
+        },
+        {
+            "username": "python_firm_171078@mailinator.com",
+            "password": "Reset@123",
+            "error": "None"
+        },
+        {
+            "comapnyname": "python_firm_685578",
+            "contactperson": "Tester",
+            "Mobilenumber": "9876543210",
+            "email": "python_firm_685578@mailinator.com",
+            "password": "Reset@123",
+            "yourRole": "Testing the software"
+        },
+        {
+            "path": "D:/POM",
+            "company_logo": "/Images/company_logo/logo2.jpg",
+            "website_link": "www.google.com",
+            "linkedin_profile": "https://www.linkedin.com/company/outsized",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic",
+            "number_of_employee": [
+                {
+                    "employees": "Less than 10"
+                },
+                {
+                    "employees": "11-50 employees"
+                },
+                {
+                    "employees": "51-200 employees"
+                },
+                {
+                    "employees": ">200 employees"
+                }
+            ],
+            "we_are_open_to": [
+                {
+                    "Projects": "Projects"
+                },
+                {
+                    "Outsourcing": "Outsourcing"
+                }
+            ],
+            "locations": [
+                {
+                    "place": "Surat"
+                },
+                {
+                    "place": "Ahemdabad"
+                },
+                {
+                    "place": "Baroda"
+                },
+                {
+                    "place": "Vapi"
+                },
+                {
+                    "place": "Valsad"
+                }
+            ],
+            "insertlink": [
+                {
+                    "url": "https://outsized.site/signup",
+                    "title": "A.com"
+                },
+                {
+                    "url": "https://outsized.site/login",
+                    "title": "B.com"
+                }
+            ],
+            "file_to_upload": [
+                {
+                    "file": "/file/dummy.jpg"
+                },
+                {
+                    "file": "/file/NewResume.pdf"
+                },
+                {
+                    "file": "/file/10MB.pdf"
+                },
+                {
+                    "file": "/file/418558.pdf"
+                },
+                {
+                    "file": "/file/NewVideo.mp4"
+                }
+            ]
+        },
+        {
+            "expertise": [
+                {
+                    "skill": "Automated Testing"
+                },
+                {
+                    "skill": "Manual testing"
+                },
+                {
+                    "skill": "Python"
+                },
+                {
+                    "skill": "Project Management"
+                }
+            ],
+            "sectors": [
+                {
+                    "sector": "banking"
+                },
+                {
+                    "sector": "Corporate Banking"
+                },
+                {
+                    "sector": "Finance"
+                },
+                {
+                    "sector": "Insurance underwiting"
+                }
+            ],
+            "projects": [
+                {
+                    "clientname": "Testing the field"
+                },
+                {
+                    "projectDetails": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text"
+                },
+                {
+                    "fromDate": "2022-03-02"
+                },
+                {
+                    "endDate": "2022-03-20"
+                },
+                {
+                    "skillDemosntrated": [
+                        {
+                            "skill": "Automated Testing"
+                        },
+                        {
+                            "skill": "Manual testing"
+                        },
+                        {
+                            "skill": "Python"
+                        },
+                        {
+                            "skill": "Test Management"
+                        }
+                    ]
+                },
+                {
+                    "project_loop": "2"
+                }
+            ]
+        },
+        {
+            "projectName": "Webly App",
+            "client_name": "Lijo Daniel \u2022 4 months ago"
+        }
+    ],
+    "Production": [
+        {
+            "login_url": "https://outsized.site/login",
+            "signup_url": "https://outsized.site/",
+            "company_information": "https://outsized.site/create-firm-profile/company-profile",
+            "expertise&experience": "https://outsized.site/create-firm-profile/expertise-experience",
+            "profile_screen": "https://outsized.site/firm-profile"
+        },
+        {
+            "username": "qa1237@mailinator.com",
+            "password": "Reset@123",
+            "error": "Email not registered"
+        },
+        {
+            "username": "qa3@mailinator.com",
+            "password": "Reset@1234",
+            "error": "Incorrect Password"
+        },
+        {
+            "username": "firm07@mailinator.com",
+            "password": "Reset@123",
+            "error": "None"
+        },
+        {
+            "comapnyname": "Python Firm QA",
+            "contactperson": "Tester",
+            "Mobilenumber": "9876543210",
+            "email": "firm08@mailinator.com",
+            "password": "Reset@123",
+            "yourRole": "Testing the software"
+        },
+        {
+            "path": "C:/Users/Administrator/PythonProject/POM",
+            "company_logo": "/Images/company_logo/logo1.jpg",
+            "website_link": "www.google.com",
+            "linkedin_profile": "https://www.linkedin.com/company/outsized",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic",
+            "number_of_employee": [
+                {
+                    "employees": "Less than 10"
+                },
+                {
+                    "employees": "11-50 employees"
+                },
+                {
+                    "employees": "51-200 employees"
+                },
+                {
+                    "employees": ">200 employees"
+                }
+            ],
+            "we_are_open_to": [
+                {
+                    "Projects": "Projects"
+                },
+                {
+                    "Outsourcing": "Outsourcing"
+                }
+            ],
+            "locations": [
+                {
+                    "place": "Surat"
+                },
+                {
+                    "place": "Ahemdabad"
+                },
+                {
+                    "place": "Baroda"
+                },
+                {
+                    "place": "Vapi"
+                },
+                {
+                    "place": "Valsad"
+                }
+            ],
+            "insertlink": [
+                {
+                    "url": "https://outsized.site/signup",
+                    "title": "A.com"
+                },
+                {
+                    "url": "https://outsized.site/login",
+                    "title": "B.com"
+                }
+            ],
+            "file_to_upload": [
+                {
+                    "file": "/file/dummy.jpg"
+                },
+                {
+                    "file": "/file/NewResume.pdf"
+                },
+                {
+                    "file": "/file/10MB.pdf"
+                },
+                {
+                    "file": "/file/418558.pdf"
+                },
+                {
+                    "file": "/file/NewVideo.mp4"
+                }
+            ]
+        },
+        {
+            "expertise": [
+                {
+                    "skill": "Automated Testing"
+                },
+                {
+                    "skill": "Manual testing"
+                },
+                {
+                    "skill": "Python"
+                },
+                {
+                    "skill": "Project Management"
+                }
+            ],
+            "sectors": [
+                {
+                    "sector": "banking"
+                },
+                {
+                    "sector": "Corporate Banking"
+                },
+                {
+                    "sector": "Finance"
+                },
+                {
+                    "sector": "Insurance underwiting"
+                }
+            ],
+            "projects": [
+                {
+                    "clientname": "Testing the field"
+                },
+                {
+                    "projectDetails": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text"
+                },
+                {
+                    "fromDate": "2022-02-02"
+                },
+                {
+                    "endDate": "2022-02-20"
+                },
+                {
+                    "skillDemosntrated": [
+                        {
+                            "skill": "Automated Testing"
+                        },
+                        {
+                            "skill": "Manual testing"
+                        },
+                        {
+                            "skill": "Python"
+                        },
+                        {
+                            "skill": "Test Management"
+                        }
+                    ]
+                },
+                {
+                    "project_loop": "2"
+                }
+            ]
+        }
+    ]
+}
